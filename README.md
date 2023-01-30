@@ -1,7 +1,5 @@
 - 👋 Hi, I am Kuzivashe Bayela
-- 👀 I am interested in software development
-- 🌱 I am currently learning management of information systems
-- 💞️ I am looking to collaborate on systems development
+- 👀 Let's develop something innovative
 - 📫 You can reach me at kuzibaye@gmail.com
 
 <!---
